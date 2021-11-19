@@ -11,7 +11,7 @@
     </key>
 
     <key name="hotkeys" type="as">
-      <default><![CDATA[ ["<Alt>"] ]]></default>
+      <default><![CDATA[ ["<Primary><Shift>P"] ]]></default>
     </key>
 
   </schema>
